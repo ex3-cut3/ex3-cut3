@@ -21,7 +21,7 @@
 
 <img align="left" alt="Next.js" width="32px" src="https://w7.pngwing.com/pngs/87/586/png-transparent-next-js-hd-logo.png" />
 
-<img align="left" alt="Vue.js" width="32px" src="https://e7.pngegg.com/pngimages/789/586/png-clipart-gray-and-green-v-vue-js-logo-icons-logos-emojis-tech-companies-thumbnail.png" />
+<img align="left" alt="Vue.js" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" />
 
 <img align="left" alt="Nuxt" width="32px" src="https://www.datocms-assets.com/205/1667561117-nuxt.svg" />
 
