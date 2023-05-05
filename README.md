@@ -2,7 +2,6 @@
 
 - 🧑‍💻 Programming is my hobby at first!
 - 🎓 I always try to master new things I get to know about
-- ❓ If you have any questions feel free to ask: mail - pavlienko1112@gmail.com
 
 ### Connect with me:
 
