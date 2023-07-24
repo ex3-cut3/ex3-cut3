@@ -45,7 +45,5 @@
 
 ---
 
-![ex3-cut3's Github stats](https://github-readme-stats.vercel.app/api?username=max-pavlenko&show_icons=true&count_private=true)
-
 [telegram]: https://t.me/billyherrin
 [linkedin]: https://www.linkedin.com/in/react-execute/
