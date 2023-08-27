@@ -24,6 +24,8 @@
 
 <img align="left" alt="Nuxt" width="32px" src="https://www.datocms-assets.com/205/1667561117-nuxt.svg" />
 
+<img align="left" alt="Threejs" width="32px" src="https://pbs.twimg.com/profile_images/1390736294666506242/_D_h6aWq_400x400.png" />
+
 <img align="left" alt="GraphQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 
 <img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -45,5 +47,5 @@
 
 ---
 
-[telegram]: https://t.me/billyherrin
+[telegram]: https://t.me/savePeopleLives
 [linkedin]: https://www.linkedin.com/in/react-execute/
