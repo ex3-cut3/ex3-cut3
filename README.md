@@ -41,7 +41,7 @@
 <br />
 <br />
 
-P.S. Pinned repos may not entirely reflect my current skills or coding style. But fear not, for coding is an ever-evolving journey.
+P.S. 📚 Pinned repos may not entirely reflect my current skills or coding style . But fear not, for coding is an ever-evolving journey 🌱.
 
 ---
 
