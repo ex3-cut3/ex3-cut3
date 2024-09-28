@@ -1,12 +1,12 @@
 ### Welcome, I'm Max 👋
 
-- 🧑‍💻 Programming is my hobby at first!
+- 🥽🌠 Programming is my pastime at first!
 - 🎓 I always try to master new things I get to know about
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -28,13 +28,9 @@
 
 <img align="left" alt="Nest" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/1200px-NestJS.svg.png" />
 
-<img align="left" alt="Threejs" width="32px" src="https://pbs.twimg.com/profile_images/1390736294666506242/_D_h6aWq_400x400.png" />
-
 <img align="left" alt="GraphQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 
 <img align="left" alt="Sass" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-
-<img align="left" alt="Webpack" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" />
 
 <img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
@@ -46,4 +42,4 @@ P.S. 📚 Pinned repos may not entirely reflect my current skills or coding styl
 ---
 
 [telegram]: https://t.me/savePeopleLives
-[linkedin]: https://www.linkedin.com/in/react-execute/
+[linkedin]: https://www.linkedin.com/in/billyherrin
